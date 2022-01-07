@@ -29,6 +29,7 @@ WGAN project for Machine Learning and Data mining course
 - In WGAN loss function is being used for computing gradient.
 - In WGAN the model is more stable, and therefore prevents mode collapse.
 - Vanishing gradients are less common.
+![Vanishing gradients](https://i.ibb.co/9GmYMQB/graph.png)
 #### Mode Collapse
 The generator produces data from a small number of classes instead of all the classes.
 ## To Be Added
