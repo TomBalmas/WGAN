@@ -30,7 +30,7 @@ WGAN project for Machine Learning and Data mining course
 #### Mode Collapse
 The generator produces data from a small number of classes instead of all the classes.
 ## To Be Added
-This implementation is on MNIST dataset, in the near future I will implement WGAN on a Pokémon images dataset 
+This implementation is on MNIST dataset, in the near future We will implement WGAN on a Pokémon images dataset 
 ## References
 [WGAN article](https://arxiv.org/abs/1701.07875)</br>
 [EMD duality](https://vincentherrmann.github.io/blog/wasserstein/)</br>
