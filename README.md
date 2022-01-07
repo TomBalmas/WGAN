@@ -22,7 +22,7 @@ WGAN project for Machine Learning and Data mining course
  - The cost is quantified by the amount of dirt moved.
  - Wasserstein metric provides a smooth measure, which is super helpful for a stable learning process using gradient descents.
  ### Kantorovich-Rubinstein duality
- - In WGAN, instead of using the EMD (the primary problem),we calculate the dual problem, due to high complexity.
+ - In WGAN, instead of using the EMD (the primary problem), we calculate the dual problem, due to high complexity.
 ### WGAN Elements
 - In WGAN loss function is being used for computing gradient.
 - In WGAN the model is more stable, and therefore prevents mode collapse.
