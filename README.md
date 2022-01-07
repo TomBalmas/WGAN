@@ -1,6 +1,6 @@
 # WGAN
 WGAN project for Machine Learning and Data mining course
-# Some Notes About WGAN
+## Some Notes About WGAN
 ### What IS GAN?
  - Generative Adversarial Network.
  - A network that learns to identify data and generate new data in the same fashion.
