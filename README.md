@@ -35,6 +35,7 @@ WGAN project for Machine Learning and Data mining course
 The generator produces data from a small number of classes instead of all the classes.
 ## Results
 ### Generated data in each epoch 
+The implementation learns from MNIST dataset:</br>
 ![results](https://im3.ezgif.com/tmp/ezgif-3-4f5eb8c795.gif)
 ### Loss functions
 ![Loss functions](https://i.ibb.co/5cZ7Xy7/plot-line-plot-loss.png)
