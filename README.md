@@ -35,7 +35,10 @@ This implementation is on MNIST dataset, in the near future I will implement WGA
 [WGAN implementation](https://machinelearningmastery.com/how-to-code-a-wasserstein-generative-adversarial-network-wgan-from-scratch/)</br>
 [GAN](https://developers.google.com/machine-learning/gan/generator)</br>
 [More about WGAN](https://medium.com/@sunnerli/the-story-about-wgan-784be5acd84c)</br>
-
+## Disclaimer
+This project is about understanding and research about WGAN </br>
+The implementation is based on Jason Brownlee's WGAN implementation </br> 
+The featured implementation will change by time passes :) 
  
  
 
