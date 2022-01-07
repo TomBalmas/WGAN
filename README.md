@@ -5,8 +5,7 @@ WGAN project for Machine Learning and Data mining course
  - Generative Adversarial Network.
  - A network that learns to identify data and generate new data in the same fashion.
  ### GAN Architecture
-- GAN consists of two neural networks</br>
-Discriminator and Generator</br>
+- GAN consists of two neural networks: Discriminator and Generator</br>
 
 ![GAN Architecture](https://i.ibb.co/K0pQZgb/Screenshot-2022-01-07-184140.png)
  
