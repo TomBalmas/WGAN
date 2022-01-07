@@ -7,13 +7,14 @@ WGAN project for Machine Learning and Data mining course
  ### GAN Architecture
 - GAN consists of two neural networks</br>
 Discriminator and Generator
+ ![GAN Architecture](https://i.ibb.co/K0pQZgb/Screenshot-2022-01-07-184140.png)
 ### Discriminator (Critic)
  - The discriminator learns to distinguish the generator's fake data from real data.
  - The discriminator penalizes the generator for producing implausible results.
  ### Generator
  - The generator learns to generate plausible data.
  - The generated instances become negative training examples for the discriminator.
- ![GAN Architecture](https://i.ibb.co/K0pQZgb/Screenshot-2022-01-07-184140.png)
+
  
  ### Wasserstein Distance
  - Wasserstein  distance or Earth Mover’s(EM) - the minimum energy cost of transforming a pile of dirt from one probability distribution to the other distribution.
