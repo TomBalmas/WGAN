@@ -6,8 +6,10 @@ WGAN project for Machine Learning and Data mining course
  - A network that learns to identify data and generate new data in the same fashion.
  ### GAN Architecture
 - GAN consists of two neural networks</br>
-Discriminator and Generator
- ![GAN Architecture](https://i.ibb.co/K0pQZgb/Screenshot-2022-01-07-184140.png)
+Discriminator and Generator</br>
+
+![GAN Architecture](https://i.ibb.co/K0pQZgb/Screenshot-2022-01-07-184140.png)
+ 
 ### Discriminator (Critic)
  - The discriminator learns to distinguish the generator's fake data from real data.
  - The discriminator penalizes the generator for producing implausible results.
