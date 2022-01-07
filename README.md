@@ -28,11 +28,11 @@ Discriminator and Generator
 #### Mode Collapse
 The generator produces data from a small number of classes instead of all the classes.
 ## References
-WGAN article- [https://arxiv.org/abs/1701.07875](https://arxiv.org/abs/1701.07875)
-EMD duality-  [https://vincentherrmann.github.io/blog/wasserstein](https://vincentherrmann.github.io/blog/wasserstein/)
-WGAN implementation- [https://machinelearningmastery.com/how-to-code-a-wasserstein-generative-adversarial-network-wgan-from-scratch](https://machinelearningmastery.com/how-to-code-a-wasserstein-generative-adversarial-network-wgan-from-scratch/)
-GAN- [https://developers.google.com/machine-learning/gan](https://developers.google.com/machine-learning/gan/generator)
-More about WGAN- [https://medium.com/@sunnerli/the-story-about-wgan-784be5acd84c](https://medium.com/@sunnerli/the-story-about-wgan-784be5acd84c)
+WGAN article- [WGAN article](https://arxiv.org/abs/1701.07875)</br>
+EMD duality-  [EMD duality](https://vincentherrmann.github.io/blog/wasserstein/)</br>
+WGAN implementation- [WGAN implementation](https://machinelearningmastery.com/how-to-code-a-wasserstein-generative-adversarial-network-wgan-from-scratch/)</br>
+GAN- [GAN](https://developers.google.com/machine-learning/gan/generator)</br>
+More about WGAN- [More about WGAN](https://medium.com/@sunnerli/the-story-about-wgan-784be5acd84c)</br>
 
  
  
