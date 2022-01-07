@@ -18,13 +18,13 @@ WGAN project for Machine Learning and Data mining course
 
  
  ### Wasserstein Distance
+ ![Wasserstein Distance](https://i.ibb.co/tCYYjWQ/dual.png)
  - Wasserstein  distance or Earth Mover’s(EM) - the minimum energy cost of transforming a pile of dirt from one probability distribution to the other distribution.
  - The cost is quantified by the amount of dirt moved.
  - Wasserstein metric provides a smooth measure, which is super helpful for a stable learning process using gradient descents.
-![Wasserstein Distance](https://i.ibb.co/tCYYjWQ/dual.png)
  ### Kantorovich-Rubinstein duality
+ ![Kantorovich-Rubinstein duality](https://i.ibb.co/BqTjtRY/waser.png)
  - In WGAN, instead of using the EMD (the primary problem), we calculate the dual problem, due to high complexity.
-![Kantorovich-Rubinstein duality](https://i.ibb.co/BqTjtRY/waser.png)
 ### WGAN Elements
 - In WGAN loss function is being used for computing gradient.
 - In WGAN the model is more stable, and therefore prevents mode collapse.
